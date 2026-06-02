@@ -1,77 +1,68 @@
-<h1 align="center">Hi 👋, I'm Yunkong</h1>
-<h3 align="center">A passionate developer from Taiwan 🇹🇼</h3>
+<h1 align="center">✨ Hi, I'm Yunkong ✨</h1>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Student+Developer;Learning+New+Things+Every+Day" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Personal Projects**
-- 🌱 Learning **Python, JavaScript, AI**
-- 💡 Interested in **Open Source & Web Development**
-- 🎯 Goal: Become a better developer every day
+```text
+💻 Student Developer
+🌱 Currently Learning Programming
+🎯 Building Interesting Projects
+☕ Powered by Curiosity
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yunkong-ouo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yunkong-ouo&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📈 Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunkong-ouo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| 🚀 Project 1 | Awesome project description |
-| 🎨 Project 2 | Cool web application |
-| 🤖 Project 3 | AI-powered tool |
-
----
-
-## 📫 Contact Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Yunkong-ouo&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🌌 Visitor Count
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yunkong-ouo&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for visiting! ✨
+### ✨ Thanks for visiting my profile! ✨
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlrbDFoNjRjYzN2NW5tdGd5b3hjZDF5YmVvOWp0Y3NnN3B0d3VyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
 
 </div>
