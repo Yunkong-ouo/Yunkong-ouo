@@ -4,15 +4,6 @@
   🇹🇼 來自台灣的學生開發者
 </p>
 
-<p align="center">
-  <a href="https://github.com/Yunkong-ouo">
-    <img src="https://img.shields.io/github/followers/Yunkong-ouo?label=追蹤者&style=flat" />
-  </a>
-  <a href="https://github.com/Yunkong-ouo">
-    <img src="https://img.shields.io/github/stars/Yunkong-ouo?label=Stars&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 關於我
@@ -30,16 +21,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,html,css,js,unity" />
 </p>
-
----
-
-## 🚀 我的專案
-
-| 專案                 | 簡介                 |
-| ------------------ | ------------------ |
-| 📒 **Bookkeeping** | 簡單的記帳工具與相關功能       |
-| ⛏️ **Minecraft**   | Minecraft 相關的專案與工具 |
-| 🎮 **Unity**       | Unity 遊戲開發與實驗作品    |
 
 ---
 
